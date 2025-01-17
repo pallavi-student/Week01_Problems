@@ -8,5 +8,6 @@ public class KmToMiles {
         double km = input.nextDouble();
 
         double miles = km / 1.6; // Convert kilometers to miles
-        System.out.println("The total miles is "+ miles+ " miles for the given " + km + " km.");
+        System.out.println("The total miles is " + miles + " miles for the given " + km + " km.");
     }
+}

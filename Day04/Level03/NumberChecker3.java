@@ -49,7 +49,7 @@ public class NumberChecker3 {
         return false;
     }
     public static void main(String[] args) {
-        int number = 12340
+        int number = 12340;
         // Store digits
         int[] digits = storeDigits(number);
         // Find count of digits

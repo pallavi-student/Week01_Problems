@@ -19,7 +19,7 @@ Scanner input=new Scanner(System.in);
 System.out.println("Enter Month");
 int month=input.nextInt();
 //Extracting input for day
-System.out.println("Enter Day")
+System.out.println("Enter Day");
 int day=input.nextInt();
 //Creating object of class to call its instance method
 SeasonCheck obj=new SeasonCheck();

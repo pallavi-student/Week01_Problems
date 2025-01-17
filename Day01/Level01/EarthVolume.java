@@ -6,6 +6,6 @@ public class EarthVolume {
         double volumeMiles3 = (4.0/ 3) * Math.PI * Math.pow(radiusMiles, 3); // Volume in miles^3
 
         System.out.println("The volume of Earth in cubic kilometers is " + volumeKm3);
-        System.out.println("The volume of Earth in cubic miles is + volumeMiles3);
+        System.out.println("The volume of Earth in cubic miles is + volumeMiles3");
     }
 }
